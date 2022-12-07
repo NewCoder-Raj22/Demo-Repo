@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>BR 01</name>
+        <name>BR 1</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -38,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d50359fa07ef111037b6fa7f7c1ed0ee</sys_id>
-        <sys_name>BR 01</sys_name>
+        <sys_name>BR 1</sys_name>
         <sys_overrides/>
         <sys_package display_value="Demo-App" source="x_940340_demo_app">9e3295ba07ef111037b6fa7f7c1ed0a8</sys_package>
         <sys_policy/>
